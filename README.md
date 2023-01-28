@@ -3,7 +3,7 @@
 Class Notes Week 2
 
 
-Write java method and signature. reverseArray- naming convention to follow. The first letter of word not capitalized, while the second word is. We want to define all methods as static. (public static int[] 2 classes, 1 from the JDK 17 kit and the other class is created by the programmer. Inheritance
+Write java method and signature. reverseArray- naming convention to follow. The first letter of word not capitalized, while the second word is. We want to define all methods as static. public static int[] 2 classes, 1 from the JDK 17 kit and the other class is created by the programmer. Inheritance
 
 char is a primitive data type vs. String. String is a not a primitive data type and is a class type. Class: a means of creating new types. An object is one instance of a class. Each instance has its own memory. reference.
 
@@ -27,4 +27,4 @@ Each object gets its own copy of instance data. All objects in a class share one
 
 Method Overloading: Using the same method name but have different parameters.
 
-"this" reference, is useful for confusing variable names. [Driver Code from class 1-26.pdf]
+"this" reference, is useful for confusing variable names. 
